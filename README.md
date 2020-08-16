@@ -1,3 +1,3 @@
-# angular-ivy-heakpb
+# angular-animations
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-heakpb)
